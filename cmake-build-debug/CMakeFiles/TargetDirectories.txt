@@ -1,0 +1,3 @@
+C:/Users/SaBeR.CoDeR/Documents/GitHub/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SaBeR.CoDeR/Documents/GitHub/project/cmake-build-debug/CMakeFiles/project_name.dir
+C:/Users/SaBeR.CoDeR/Documents/GitHub/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
